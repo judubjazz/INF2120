@@ -1,0 +1,11 @@
+# inclu tous les validation du projet
+
+/*
+*.DS_Store
+*META-INF/
+
+# exclu les suivants.
+!TP1-INF2120-30-H17/
+!TP2-INF2120-30-H17/
+!TP3-INF2120-30-H17/
+!.gitignore
