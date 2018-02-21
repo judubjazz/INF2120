@@ -4,6 +4,7 @@
 *.DS_Store
 *.zip
 *META-INF/
+*.idea
 
 # exclu les suivants.
 
